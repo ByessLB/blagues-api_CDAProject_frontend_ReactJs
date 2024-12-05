@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17d0c03d.css",
+    "main.js": "/static/js/main.1a662ed1.js",
+    "static/js/453.bfcf257e.chunk.js": "/static/js/453.bfcf257e.chunk.js",
+    "static/media/carambar-1600x784.webp": "/static/media/carambar-1600x784.baa39e96db9d69f68b65.webp",
+    "index.html": "/index.html",
+    "main.17d0c03d.css.map": "/static/css/main.17d0c03d.css.map",
+    "main.1a662ed1.js.map": "/static/js/main.1a662ed1.js.map",
+    "453.bfcf257e.chunk.js.map": "/static/js/453.bfcf257e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17d0c03d.css",
+    "static/js/main.1a662ed1.js"
+  ]
+}
