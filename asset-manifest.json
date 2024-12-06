@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/blagues-api_CDAProject_frontend_ReactJs/static/css/main.6cd96459.css",
-    "main.js": "/blagues-api_CDAProject_frontend_ReactJs/static/js/main.ae16a2fe.js",
+    "main.css": "/blagues-api_CDAProject_frontend_ReactJs/static/css/main.ddeafca3.css",
+    "main.js": "/blagues-api_CDAProject_frontend_ReactJs/static/js/main.ce41234b.js",
     "static/js/453.bfcf257e.chunk.js": "/blagues-api_CDAProject_frontend_ReactJs/static/js/453.bfcf257e.chunk.js",
     "static/media/carambar-1600x784.webp": "/blagues-api_CDAProject_frontend_ReactJs/static/media/carambar-1600x784.baa39e96db9d69f68b65.webp",
     "index.html": "/blagues-api_CDAProject_frontend_ReactJs/index.html",
-    "main.6cd96459.css.map": "/blagues-api_CDAProject_frontend_ReactJs/static/css/main.6cd96459.css.map",
-    "main.ae16a2fe.js.map": "/blagues-api_CDAProject_frontend_ReactJs/static/js/main.ae16a2fe.js.map",
+    "main.ddeafca3.css.map": "/blagues-api_CDAProject_frontend_ReactJs/static/css/main.ddeafca3.css.map",
+    "main.ce41234b.js.map": "/blagues-api_CDAProject_frontend_ReactJs/static/js/main.ce41234b.js.map",
     "453.bfcf257e.chunk.js.map": "/blagues-api_CDAProject_frontend_ReactJs/static/js/453.bfcf257e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cd96459.css",
-    "static/js/main.ae16a2fe.js"
+    "static/css/main.ddeafca3.css",
+    "static/js/main.ce41234b.js"
   ]
 }
